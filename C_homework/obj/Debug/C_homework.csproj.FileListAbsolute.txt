@@ -1,0 +1,7 @@
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\bin\Debug\C_homework.exe.config
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\bin\Debug\C_homework.exe
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\bin\Debug\C_homework.pdb
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\obj\Debug\C_homework.csproj.AssemblyReference.cache
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\obj\Debug\C_homework.csproj.CoreCompileInputs.cache
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\obj\Debug\C_homework.exe
+C:\Users\com\Desktop\Unuty Project\C#\C_homework\C_homework\obj\Debug\C_homework.pdb
